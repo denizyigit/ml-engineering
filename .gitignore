@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Zip files
+*.zip 
+
+# Rhistory files
+.Rhistory
+
+# DS store
+.DS_Store
